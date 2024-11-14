@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/xxenesss/games.git/static/css/main.96345136.css",
+    "main.js": "/xxenesss/games.git/static/js/main.60a16bdc.js",
+    "static/js/952.d41379ce.chunk.js": "/xxenesss/games.git/static/js/952.d41379ce.chunk.js",
+    "static/js/453.bc8c174d.chunk.js": "/xxenesss/games.git/static/js/453.bc8c174d.chunk.js",
+    "index.html": "/xxenesss/games.git/index.html",
+    "main.96345136.css.map": "/xxenesss/games.git/static/css/main.96345136.css.map",
+    "main.60a16bdc.js.map": "/xxenesss/games.git/static/js/main.60a16bdc.js.map",
+    "952.d41379ce.chunk.js.map": "/xxenesss/games.git/static/js/952.d41379ce.chunk.js.map",
+    "453.bc8c174d.chunk.js.map": "/xxenesss/games.git/static/js/453.bc8c174d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96345136.css",
+    "static/js/main.60a16bdc.js"
+  ]
+}
