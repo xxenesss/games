@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/games/static/css/main.0e3e2a5e.css",
+    "main.js": "/games/static/js/main.0db98831.js",
+    "static/js/453.50764fd2.chunk.js": "/games/static/js/453.50764fd2.chunk.js",
+    "static/media/plane.svg": "/games/static/media/plane.4dfc2ea69b44cf39cb6426364633470f.svg",
+    "index.html": "/games/index.html",
+    "main.0e3e2a5e.css.map": "/games/static/css/main.0e3e2a5e.css.map",
+    "main.0db98831.js.map": "/games/static/js/main.0db98831.js.map",
+    "453.50764fd2.chunk.js.map": "/games/static/js/453.50764fd2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e3e2a5e.css",
+    "static/js/main.0db98831.js"
+  ]
+}
